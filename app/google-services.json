@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662968149359",
+    "project_id": "cloud-computing-ce1ae",
+    "storage_bucket": "cloud-computing-ce1ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662968149359:android:d2b72aa6c4b99568efb49a",
+        "android_client_info": {
+          "package_name": "com.example.offloadingvideo_streaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662968149359-n3d5aajlvrneib26sf99hf0kc99qeo80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAvDagw8a-GaA3COX7A_VQ8MMPH9K5n6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662968149359-n3d5aajlvrneib26sf99hf0kc99qeo80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
